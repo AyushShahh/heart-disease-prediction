@@ -46,7 +46,7 @@ The Cleaveland Database was used from the dataset consisting of 303 records and 
 4. EDA with Correlation heatmap, pairplot and crosstab
 5. One-hot / Label encoding of features as per requirement
 6. PCA projection of feature space
-7. Hyperparameter tuning of the models with `hyperopt`
+7. Hyperparameter tuning of the models with `hyperopt` and Stratified K Fold CV.
 8. Comparison of tuned models with approximately good parameters
 9. Create a pipeline for Ensemble learning with LogisticRegression as meta learner
 10. Calibration of the model with CalibratedClassifierCV
